@@ -14,4 +14,6 @@
   - O player 2 ao apertar a letra 'L', realiza uma repetição na academia.
   - Vence o jogador que realizar 20 repetições primeiro
   
-  ![img-project](https://user-images.githubusercontent.com/113477112/229369163-9a28e5ca-aa85-4236-ba6b-c8fe3b1ceddc.png)
+<div align="center">
+<img src="https://desblogada.files.wordpress.co..." width="0px" />
+</div>
