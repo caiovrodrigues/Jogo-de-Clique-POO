@@ -15,5 +15,8 @@
   - Vence o jogador que realizar 20 repetições primeiro
   
 <div align="center">
-<img src="https://desblogada.files.wordpress.co..." width="0px" />
+  <img src="https://user-images.githubusercontent.com/113477112/229370484-91f01d8d-3832-4087-a9eb-23a3d84c8140.png" width="300px" />
+</div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/113477112/229370484-91f01d8d-3832-4087-a9eb-23a3d84c8140.png" width="300px" />
 </div>
