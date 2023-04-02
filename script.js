@@ -9,7 +9,7 @@ alert("Pressione a TECLA A para jogar com o Azul e a TECLA L para jogar com o Ve
 let name1 = prompt("Digite o nome do primeiro jogador:");
 let name2 = prompt("Digite o nome do segundo jogador:");
 
-class Person{
+class Player{
     //Variáveis
     series = 0;
     score = 0;
@@ -41,8 +41,8 @@ class Person{
     }
 }
 
-let p1 = new Person(name1);
-let p2 = new Person(name2);
+let p1 = new Player(name1);
+let p2 = new Player(name2);
 document.querySelector('.player1 h3').innerHTML = p1.name;
 document.querySelector('.player2 h3').innerHTML = p2.name;
 
