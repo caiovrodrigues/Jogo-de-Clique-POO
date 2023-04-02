@@ -15,7 +15,7 @@
   - Vence o jogador que realizar 20 repetições primeiro
   
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/113477112/229370484-91f01d8d-3832-4087-a9eb-23a3d84c8140.png" width="300px" />
+  <img src="https://user-images.githubusercontent.com/113477112/229370819-512a8de3-ad94-4f2a-bb33-b8a1f89421ce.png" width="300px" />
   <img src="https://user-images.githubusercontent.com/113477112/229370603-4a19d65c-7b10-44e6-bc98-e54dd00c4672.png" width="300px" />
   <img src="https://user-images.githubusercontent.com/113477112/229370717-3ab94c58-5083-488d-8ff0-5fe0ff2d877b.png" width="300px" />
 </div>
